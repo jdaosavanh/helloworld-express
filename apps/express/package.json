@@ -1,0 +1,10 @@
+{
+  "name": "@helloworld/express",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "@types/node": "^20.14.10",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "redis": "^4.6.15"
+  }
+}

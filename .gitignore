@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# IDEs
+/.idea
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk.context.json
